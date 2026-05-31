@@ -14,16 +14,6 @@ A futuristic **glassmorphism-themed** unit testing dashboard built with CodeIgni
 
 ---
 
-## 📸 Screenshots
-
-> *Placeholder — insert screenshot of homepage here*
->
-> *Placeholder — insert screenshot of test report page here*
->
-> *Placeholder — insert screenshot of CLI PHPUnit output here*
-
----
-
 ## 🚀 Setup Instructions
 
 ### 1. Prerequisites
